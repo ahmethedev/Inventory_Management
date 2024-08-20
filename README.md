@@ -1,36 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# This project is built along with the [EdRoh tutorial](https://youtu.be/ddKQ8sZo_v8)
 
-## Getting Started
+I wanted to follow his tutorial to learn more about Nextjs, Redux, Node and AWS. Special thanks to EdRoh for the tutorial.
 
-First, run the development server:
+Build and Deploy a Complete Full Stack Inventory Management Dashboard Application using Nextjs, Redux, Node, and AWS. This tutorial provides a step-by-step guide to building a full-stack inventory management dashboard using Next.js for the frontend, styled with Tailwind CSS and featuring Material UI Data Grid for complex data handling. State management is streamlined with Redux Toolkit, supplemented by Redux Toolkit Query for data fetching.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The backend is powered by Node.js, using Prisma as the ORM to facilitate database interactions. We delve deep into AWS, explaining basics for beginners, including setup, cost management, and networking fundamentals. Detailed walkthroughs are provided for deploying and integrating AWS services such as RDS for database management, EC2 for computing power, API Gateway for creating robust APIs, Amplify for frontend deployment, and S3 for storage solutions.
+Arka uç, veritabanı etkileşimlerini kolaylaştırmak için ORM olarak Prisma'yı kullanan Node.js tarafından desteklenmektedir. AWS'ye derinlemesine dalıyoruz, yeni başlayanlar için kurulum, maliyet yönetimi ve ağ temelleri dahil olmak üzere temel bilgileri açıklıyoruz. Veritabanı yönetimi için RDS, hesaplama gücü için EC2, sağlam API'ler oluşturmak için API Gateway, ön uç dağıtımı için Amplify ve depolama çözümleri için S3 gibi AWS hizmetlerinin dağıtılması ve entegrasyonu için ayrıntılı adım adım kılavuzlar sağlanmaktadır.
